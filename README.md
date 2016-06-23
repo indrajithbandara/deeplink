@@ -7,4 +7,6 @@ Deeplink Test Page
 
 [direct to app.html#pay](https://moven-usa-test.moven.com/app.html#pay)
 
-[custom URL scheme](moven://?action=addmoney&src=testpage
+[custom URL scheme](moven://?action=addmoney&src=testpage)
+
+<a href="moven://?action=addmoney&src=testpage">custom URL scheme</a> - in HTML
